@@ -30,8 +30,3 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías y plata
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ricardo-quiroga)
 
----
-
-💡 **Frase Inspiradora**
-
-_"El código es como el humor. Cuando tienes que explicarlo, es malo."_ – Cory House
